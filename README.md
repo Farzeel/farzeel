@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Farzeel 👋
 
-<!--
-**Farzeel/farzeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer with experience building scalable web applications using **Node.js, TypeScript, React, and FastAPI**.
 
-Here are some ideas to get you started:
+🎓 MSc Research in Media Engineering — **TU Ilmenau, Germany**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+Python • JavaScript • TypeScript • C++
+
+**Frontend**
+
+React • Next.js • Vue • HTML • CSS
+
+**Backend**
+
+Node.js • Express.js • FastAPI
+
+**Databases**
+
+PostgreSQL • MongoDB • Prisma • Mongoose
+
+**DevOps**
+
+Docker • Git • GitHub Actions • CI/CD
+
+---
+
+
+## 🌍 Currently
+
+* Studying **MSc Research in Media Engineering** at TU Ilmenau
+* Looking for **Full-Stack / Backend Software Engineer roles in Germany**
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+https://linkedin.com/in/farzeel
+
+Email
+[farzeel007@gmail.com](mailto:farzeel007@gmail.com)
